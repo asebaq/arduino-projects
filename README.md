@@ -1,3 +1,3 @@
 # arduino-projects
 
-This ripo contains some arduino codes which is associated with some real life electronics projects
+This repo contains some Arduino codes which are associated with some real-life electronics projects
